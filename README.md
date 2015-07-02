@@ -11,6 +11,6 @@ By applying these common core elements to all resources, we will ultimately be a
 
 We would like to take this opportunity to consult with the metadata and open data community to gather feedback on what this ‘Open Government Common Core Metadata Element Set’ should include. A draft element set has been developed, and you can access it below. Please take the time to review this draft, and propose any alterations, additions or suggestions by Friday June 26th, 2015. We will then finalize the element set, and begin implementing it in CKAN, our metadata catalogue.
 
-Please send all feedback to Alannah.Hilt@tbs.sct.gc.ca.
+Please send all feedback to Alannah.Hilt@tbs-sct.gc.ca.
 
 Thank you very much for your time, and assistance with this initiative.
