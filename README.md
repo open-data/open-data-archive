@@ -7,7 +7,7 @@ The main objective of the Open Government Portal is to provide access to open re
 
 Here you will find some documentation our group has been working on. This includes:
 
-* DRAFT - Open Government Common Core Metadata Element Setí -  a set of draft core elements that can be used to consistently describe all resources found on the open government portal, regardless of which catalogue it belongs to, or source of origin. This draft was sent for consultation both internal and external to the Government of Canada.
+* DRAFT - Open Government Common Core Metadata Element Set -  a set of draft core elements that can be used to consistently describe all resources found on the open government portal, regardless of which catalogue it belongs to, or source of origin. This draft was sent for consultation both internal and external to the Government of Canada.
 * FINAL- Open Government Common Core - a final set of common core metadata element sets to be used to describe both open data and open information
 * Open Government Common Core MES - Summary - A summary document of the feedback received during the consultation, including action items for each comment
 * Project Plan- Applying DCAT and Schema.org to open.canada.ca - a project plan to mark-up the Open Government Common Core Metadata Element Set using HTML data
