@@ -11,6 +11,7 @@ Here you will find some documentation our group has been working on. This includ
 * FINAL- Open Government Common Core - a final set of common core metadata element sets to be used to describe both open data and open information
 * Open Government Common Core MES - Summary - A summary document of the feedback received during the consultation, including action items for each comment
 * Project Plan- Applying DCAT and Schema.org to open.canada.ca - a project plan to mark-up the Open Government Common Core Metadata Element Set using HTML data
+* DRAFT-Open Government Metadata Application Profile
 
 The newest file, as of January 2016, is : 
 
